@@ -1,27 +1,39 @@
-# PaisesApp
+# PaisesApp - Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.8.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Aplicación SPA (Single Page Application) para buscar paises por capital, por pais y por continente usando REST COUNTRIES
 
-## Code scaffolding
+## Listado de temas que se usaron en esta aplicación
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* 1.- Rutas
 
-## Build
+* 2.- RouterLink y RouterLinkActive
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* 3.- Componentes especializados
 
-## Running unit tests
+* 4.- DebounceTime
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* 5.- Inputs
 
-## Running end-to-end tests
+* 6.- SwitchMaps- Rxjs
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+* 7.- Consumo de APIs
 
-## Further help
+* 8.- Tipado de datos
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* 9.- Menú de aplicación
+
+* 10.- ngClass y diferentes formas de manipular clases
+
+* 11.- CSS condicionales
+
+* 12.- Optimizaciones a peticiones HTTP
+
+* 13.- Animaciones de CSS
+
+* 14.- Auto-completado en la búsqueda de países
+
+
+
